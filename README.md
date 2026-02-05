@@ -1,2 +1,33 @@
 # AI-In-Smart-Healthcare-For-Early-Diagnosis
 A system that uses artificial intelligence to assist in early diagnosis of diseases. It analyzes medical records, imaging data, and patient symptoms to detect health issues at an early stage, improving treatment outcomes and patient care.
+### Project include: 
+
+1. Synopsis
+
+2. PPT
+
+3. Research Paper
+
+
+4. Code
+
+5. Explanation video
+
+6. Documents
+
+7. Report
+
+
+### Need Code, Documents & Explanation video ? 
+
+## How to Reach me :
+
+### Mail : vatshayan007@gmail.com 
+
+### WhatsApp: +91 9310631437 (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
+
+### Website : https://www.finalproject.in/
+
+### 💻 Youtube Channel: [Link](https://www.youtube.com/@computerscienceproject)
+
+Mail/Message me for Projects Help 🙏🏻
